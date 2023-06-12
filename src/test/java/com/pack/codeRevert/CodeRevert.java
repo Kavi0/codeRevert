@@ -14,7 +14,7 @@ public class CodeRevert {
 
 	public void thirdUpdateWrongCode() {
 
-		System.out.println("3rdUpdateWrongCode");
+		System.out.println("thirdUpdateWrongCode");
 	}
 
 	public static void main(String[] args) {
